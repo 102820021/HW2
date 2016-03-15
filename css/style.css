@@ -1,0 +1,258 @@
+.body-style {
+  width: 1260px;
+  height: 1340px;
+  margin: 0px 0px 0px 0px;
+  background-color: #FE7701;
+  margin-left:auto;
+  margin-right: auto;
+}
+.div-style {
+  width: 960px;
+  height: 1240px;
+  padding: 30px 150px 20px 150px;
+}
+.header-style {
+  width: 960px;
+  height: 57px;
+  margin: 0px 0px 18px 0px;
+}
+.div-logo-style {
+  float: left;
+  width: 656px;
+  height: 57px;
+}
+.logo-style {
+  width: 140px;
+  height: 57px;
+  margin: 0px 491px 0px 25px;
+}
+.div-btn-style {
+  float: left;
+  width: 50px;
+  height: 50px;
+  margin: 0px 10px 7px 0px;
+}
+.btn-style {
+  width: 50px;
+  height: 50px;
+  padding: 0px 0px 0px 0px;
+  background-color: #FE7701;
+  border-style: none;
+}
+.article-style3 {
+  width: 960px;
+  height: 500px;
+  margin: 0px 0px 20px 0px;
+}
+.Box {
+  border-radius: 3px;
+  color: #FFFFFF;
+}
+.Shadow {
+  border-radius: 3px;
+  box-shadow: -5px 5px 0px rgba(165, 77, 5, 0.5);
+}
+.nav-style {
+  width: 928px;
+  height: 20px;
+  margin: 0px 0px 19px 0px;
+  padding: 16px 0px 16px 30px;
+  font-family: "Arial";
+  font-weight: bold;
+  background-color: #FFFFFF;
+  color: #FE7701;
+}
+.nav-p-style {
+  display: inline;
+  font-size: 14px;
+  margin-right: 30px;
+}
+.img-style1 {
+  width: 960px;
+  height: 500px;
+}
+.div-style2 {
+  float: left;
+  width: 270px;
+  height: 18px;
+  padding: 16px 0px 16px 30px;
+  font-family: "Arial";
+  font-weight: bold;
+  font-size: 14px;
+  background-color: #FFFFFF;
+  color: #FE7701;
+}
+.div-style3 {
+  width: 960px;
+  height: 50px;
+  margin-bottom: 15px;
+}
+.div-style4 {
+  float: left;
+  width: 300px;
+  height: 136px;
+}
+.div-style5 {
+  width: 300px;
+  height: 40px;
+}
+.img-style2 {
+  float: left;
+  margin-left: 51px;
+  width: 40px;
+  height: 40px;
+}
+.p-style {
+  float: left;
+  width: 184px;
+  height: 14px;
+  margin: 5px 0px 5px 10px;
+  padding: 8px 0px 8px 15px;
+  font-family: "Arial";
+  font-size: 12px;
+  background-color: #FFFFFF;
+  color: #404040;
+}
+.div-style6 {
+  float: left;
+  margin: 5px 0px 0px 30px;
+  width: 300px;
+  height: 136px;
+}
+.div-style7 {
+  float: left;
+  margin: 5px 0px 0px 30px;
+  width: 270px;
+  height: 123px;
+  padding: 13px 15px 0px 15px;
+  font-family: "Arial";
+  font-size: 12px;
+  background-color: #FFFFFF;
+  color: #404040;
+}
+.div-style8 {
+  width: 960px;
+  height: 141px;
+}
+.article-style {
+  margin-bottom: 40px;
+  width: 960px;
+  height: 206px;
+}
+.article-style2 {
+  width: 960px;
+  height: 330px;
+}
+.div-style9 {
+  float: left;
+  margin-right: 30px;
+  width: 630px;
+  height: 330px;
+}
+.div-style10 {
+  width: 600px;
+  height: 18px;
+  padding: 16px 0px 16px 30px;
+  margin: 0px 0px 20px 0px;
+  font-family: "Arial";
+  font-weight: bold;
+  font-size: 14px;
+  background-color: #FFFFFF;
+  color: #FE7701;
+}
+.div-style11 {
+  width: 620px;
+  height: 60px;
+  margin: 0px 30px 10px 0px;
+  padding: 10px 0px 10px 10px;
+  background-color: #FFFFFF;
+  color: #FE7701;
+}
+.img-style3 {
+  float: left;
+  width: 130px;
+  height: 60px;
+  margin-right: 10px;
+}
+.div-p-style {
+  width: 500px;
+  height: 60px;
+}
+.p-style2 {
+  margin: 4px 0px 8px 0px;
+  font-family: "Arial";
+  font-size: 16px;
+  color: #404040;
+}
+.p-style3 {
+  margin: 0px 0px 15px 0px;
+  font-family: "Arial";
+  font-size: 10px;
+  color: #A54E03;
+}
+.div-style12 {
+  width: 270px;
+  height: 18px;
+  padding: 16px 0px 16px 30px;
+  margin: 0px 0px 20px 0px;
+  font-family: "Arial";
+  font-weight: bold;
+  font-size: 14px;
+  background-color: #FFFFFF;
+  color: #FE7701;
+}
+.div-style13 {
+  float: left;
+  width: 300px;
+  height: 330px;
+}
+.div-style14 {
+  background-color: #FFFFFF;
+  width: 285px;
+  height: 246px;
+  padding: 14px 0px 0px 15px;
+}
+.span-style {
+  font-family: "Arial";
+  font-size: 14px;
+  color: #A54E03;
+}
+.span-style2 {
+  font-family: "Arial";
+  font-size: 14px;
+  color: #404040;
+}
+.hr-style {
+  margin: 14px 15px 14px 0px;
+  width: 270px;
+  height: 1px;
+  border-style: none;
+  background-color: #A54E03;
+}
+.a-style {
+  font-family: "Arial";
+  font-size: 10px;
+  color: #A54E03;
+  text-decoration:none;
+}
+.footer-style {
+  width: 1260px;
+  height: 50px;
+  background-color: #404040;
+}
+.div-style15 {
+  float: left;
+  margin: 16px 0px 16px 180px;
+  font-family: "Arial";
+  font-weight: bold;
+  font-size: 14px;
+  color: #FE7701;
+}
+.div-style16 {
+  float: right;
+  margin: 16px 295px 16px 0px;
+  font-family: "Arial";
+  font-weight: bold;
+  font-size: 14px;
+  color: #FE7701;
+}
